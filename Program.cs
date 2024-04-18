@@ -1,10 +1,6 @@
 ﻿// tag::code[]
 // tag::import[]
-using System;
-using System.IO;
-using System.Collections.Generic;
 using TypeDB.Driver.Api;
-using TypeDB.Driver.Common;
 using Newtonsoft.Json.Linq;
 using Newtonsoft.Json;
 
@@ -176,7 +172,7 @@ class WelcomeToTypeDB
     // tag::get[]
     static List<string> GetFilesByUser(ITypeDBDriver driver, string dbName, string name, bool inference = false) {
         TypeDBOptions options = new();
-        options.Infer(true);
+        options.Infer(inference);
         List<string> files = new List<string>();
         using (ITypeDBSession session = driver.Session(dbName, SessionType.Data)) {
             using (ITypeDBTransaction tx = session.Transaction(TransactionType.Read, options)) {
