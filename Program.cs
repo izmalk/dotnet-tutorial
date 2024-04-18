@@ -4,7 +4,7 @@ using TypeDB.Driver.Api;
 using Newtonsoft.Json.Linq;
 using Newtonsoft.Json;
 
-class WelcomeToTypeDB
+class TutorialProgram
 {
 // end::import[]
 // tag::constants[]
