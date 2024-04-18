@@ -79,7 +79,7 @@ class WelcomeToTypeDB
         using (ITypeDBTransaction tx = session.Transaction(TransactionType.Read)) {
             Console.WriteLine("Testing the database...");
             string testQuery = "match $u isa user; get $u; count;";
-            long result = tx.Query.GetAggregate(testQuery).Resolve().AsLong();
+            long result = tx.Query.GetAggregate(testQuery).Resolve()!.AsLong();
             if (result == 3) {
                 Console.WriteLine("Passed");
                 return true;
