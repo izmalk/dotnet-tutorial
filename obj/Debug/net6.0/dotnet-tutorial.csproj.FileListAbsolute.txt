@@ -1,0 +1,15 @@
+/Users/vladimir/Documents/GitHub/dotnet-tutorial/bin/Debug/net6.0/dotnet-tutorial
+/Users/vladimir/Documents/GitHub/dotnet-tutorial/bin/Debug/net6.0/dotnet-tutorial.deps.json
+/Users/vladimir/Documents/GitHub/dotnet-tutorial/bin/Debug/net6.0/dotnet-tutorial.runtimeconfig.json
+/Users/vladimir/Documents/GitHub/dotnet-tutorial/bin/Debug/net6.0/dotnet-tutorial.dll
+/Users/vladimir/Documents/GitHub/dotnet-tutorial/bin/Debug/net6.0/dotnet-tutorial.pdb
+/Users/vladimir/Documents/GitHub/dotnet-tutorial/obj/Debug/net6.0/dotnet-tutorial.csproj.AssemblyReference.cache
+/Users/vladimir/Documents/GitHub/dotnet-tutorial/obj/Debug/net6.0/dotnet-tutorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimir/Documents/GitHub/dotnet-tutorial/obj/Debug/net6.0/dotnet-tutorial.AssemblyInfoInputs.cache
+/Users/vladimir/Documents/GitHub/dotnet-tutorial/obj/Debug/net6.0/dotnet-tutorial.AssemblyInfo.cs
+/Users/vladimir/Documents/GitHub/dotnet-tutorial/obj/Debug/net6.0/dotnet-tutorial.csproj.CoreCompileInputs.cache
+/Users/vladimir/Documents/GitHub/dotnet-tutorial/obj/Debug/net6.0/dotnet-tutorial.dll
+/Users/vladimir/Documents/GitHub/dotnet-tutorial/obj/Debug/net6.0/refint/dotnet-tutorial.dll
+/Users/vladimir/Documents/GitHub/dotnet-tutorial/obj/Debug/net6.0/dotnet-tutorial.pdb
+/Users/vladimir/Documents/GitHub/dotnet-tutorial/obj/Debug/net6.0/dotnet-tutorial.genruntimeconfig.cache
+/Users/vladimir/Documents/GitHub/dotnet-tutorial/obj/Debug/net6.0/ref/dotnet-tutorial.dll
