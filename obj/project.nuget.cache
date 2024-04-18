@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ilw7saQFO7kZTwXtXZG2DLEpQgl9PD3iAULL9eDbV2RjCHCi75cUSd2Rtjo4Rsav0rzRKZgyvDCxvbMMw8WZ3A==",
+  "dgSpecHash": "sJ4z2C2JqWSfM+XC5tdKoS8LvfLGJQ0KfJhuAe/QkmdLKaQM0TUoGlHMbIFUEveZORNJTvonrhud3qILxSuSKw==",
   "success": true,
   "projectFilePath": "/Users/vladimir/Documents/GitHub/dotnet-tutorial/dotnet-tutorial.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/vladimir/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/vladimir/.nuget/packages/typedb.driver/2.28.0-rc0/typedb.driver.2.28.0-rc0.nupkg.sha512",
+    "/Users/vladimir/.nuget/packages/typedb.driver.pinvoke.osx-x64/2.28.0-rc0/typedb.driver.pinvoke.osx-x64.2.28.0-rc0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -37,6 +37,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "TypeDB.Driver": {
+              "target": "Package",
+              "version": "[2.28.0-rc0, )"
+            },
+            "TypeDB.Driver.Pinvoke.osx-x64": {
+              "target": "Package",
+              "version": "[2.28.0-rc0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

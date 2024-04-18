@@ -13,3 +13,15 @@
 /Users/vladimir/Documents/GitHub/dotnet-tutorial/obj/Debug/net6.0/dotnet-tutorial.pdb
 /Users/vladimir/Documents/GitHub/dotnet-tutorial/obj/Debug/net6.0/dotnet-tutorial.genruntimeconfig.cache
 /Users/vladimir/Documents/GitHub/dotnet-tutorial/obj/Debug/net6.0/ref/dotnet-tutorial.dll
+/Users/vladimir/Documents/GitHub/dotnet-tutorial/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/vladimir/Documents/GitHub/dotnet-tutorial/bin/Debug/net6.0/TypeDB.Driver.Api.dll
+/Users/vladimir/Documents/GitHub/dotnet-tutorial/bin/Debug/net6.0/TypeDB.Driver.Common.dll
+/Users/vladimir/Documents/GitHub/dotnet-tutorial/bin/Debug/net6.0/TypeDB.Driver.Concept.dll
+/Users/vladimir/Documents/GitHub/dotnet-tutorial/bin/Debug/net6.0/TypeDB.Driver.Connection.dll
+/Users/vladimir/Documents/GitHub/dotnet-tutorial/bin/Debug/net6.0/TypeDB.Driver.Logic.dll
+/Users/vladimir/Documents/GitHub/dotnet-tutorial/bin/Debug/net6.0/TypeDB.Driver.Query.dll
+/Users/vladimir/Documents/GitHub/dotnet-tutorial/bin/Debug/net6.0/TypeDB.Driver.User.dll
+/Users/vladimir/Documents/GitHub/dotnet-tutorial/bin/Debug/net6.0/TypeDB.Driver.dll
+/Users/vladimir/Documents/GitHub/dotnet-tutorial/obj/Debug/net6.0/dotnet-tutorial.csproj.CopyComplete
+/Users/vladimir/Documents/GitHub/dotnet-tutorial/bin/Debug/net6.0/TypeDB.Driver.Pinvoke.dll
+/Users/vladimir/Documents/GitHub/dotnet-tutorial/bin/Debug/net6.0/runtimes/osx-x64/native/libtypedb_driver.dylib
