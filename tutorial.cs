@@ -3,10 +3,10 @@
 using TypeDB.Driver.Api;
 using Newtonsoft.Json.Linq;
 using Newtonsoft.Json;
+// end::import[]
 
 class TutorialProgram
 {
-// end::import[]
 // tag::constants[]
     const string DB_NAME = "sample_app_db";
     const string SERVER_ADDR = "127.0.0.1:1729";
@@ -117,21 +117,6 @@ class TutorialProgram
         }
     }
     // end::db-setup[]
-    /**
-    // tag::json[]
-    void PrintJSON(JObject json) {
-        if (json.IsString) {
-            Console.WriteLine($"'{json.AsString()}'");
-        }
-        if (json.IsMap) {
-            foreach (var p in json.AsMap()) {
-                Console.WriteLine($"{p.Key}:");
-                PrintJSON(p.Value);
-            }
-        }
-    }
-    // end::json[]
-    **/
     // tag::fetch[]
     static List<JObject> FetchAllUsers(ITypeDBDriver driver, string dbName) {
         List<JObject> users = new();
@@ -143,7 +128,6 @@ class TutorialProgram
                     users.Add(user);
                     Console.WriteLine($"User #{c++} ");
                     Console.WriteLine(JsonConvert.SerializeObject(user, Formatting.Indented));
-                    // PrintJSON(user);
                     Console.WriteLine();
                 }
             }
